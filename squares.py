@@ -31,7 +31,6 @@ def main():
         print("You did not enter an integer.")
 
     print("\nDone.")
-    print("does this work")
 
 
 if __name__ == "__main__":
